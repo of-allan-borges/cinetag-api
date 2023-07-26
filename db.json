@@ -1,0 +1,63 @@
+{
+    
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Orgulho e Preconceito",
+            "capa": "https://cdn.kobo.com/book-images/7b0e1631-9550-459a-9914-ab53b5fdb82e/1200/1200/False/orgulho-e-preconceito-19.jpg",
+            "link": "https://www.youtube.com/embed/Ur_DIHs92NM",
+            "descricao": "Elizabeth Bennet vive com sua mãe, pai e irmãs no campo, na Inglaterra. Por ser uma das filhas mais velhas, ela enfrenta uma crescente pressão de seus pais para se casar. Quando Elizabeth é apresentada ao belo e rico Darcy, faíscas voam. Embora haja uma química óbvia entre os dois, a natureza excessivamente reservada de Darcy ameaça a relação."
+        },
+        {
+            "id": 2,
+            "titulo": "O Castelo Animado",
+            "capa": "https://images.justwatch.com/poster/265223874/s718/o-castelo-animado.%7Bformat%7D",
+            "link": "https://www.youtube.com/embed/iM9pZ01J7Lc",
+            "descricao": "Uma bruxa lança uma terrível maldição sobre a jovem Sophie transformando-a em uma velha. Desesperada, ela embarca em uma odisseia em busca do mago Howl, um misterioso feiticeiro que pode ajudá-la a reverter o feitiço."
+        },
+        {
+            "id": 3,
+            "titulo": "Kung Fu Panda 2",
+            "capa": "https://cinemacomrapadura.com.br/imagens/2014/12/20141230-kung-fu-panda-2-poster-615x923.jpg",
+            "link": "https://www.youtube.com/embed/FQ63rqSRrEI",
+            "descricao": "Um vilão planeja usar uma arma secreta para conquistar a China e eliminar as artes marciais. Para evitar que isso aconteça, Po precisa descobrir a misteriosa origem do novo inimigo e reunir as forças necessárias para vencê-lo."
+        },
+        {
+            "id": 4,
+            "titulo": "Irmão Urso",
+            "capa": "https://m.media-amazon.com/images/I/71WOojK8IcL._AC_UF894,1000_QL80_.jpg",
+            "link": "https://www.youtube.com/embed/5LptimBauZw",
+            "descricao": "Kenai é um bravo jovem índio com uma aversão especial por ursos. Quando seu irmão Sitka é morto por um, Kenai mata o urso, mas é magicamente transformado em um deles. Para piorar a situação, seu outro irmão, Denahi, jura matar o urso que Kenai se tornou. A única esperança de Kenai é uma montanha mágica, onde ele acredita que pode ser transformado de volta em um ser humano e ele pede a Koda, um verdadeiro filhote de urso, para ajudá-lo a chegar lá."
+        },
+
+        {
+            "id": 5,
+            "titulo": "O Rei Leão",
+            "capa": "https://m.media-amazon.com/images/I/81G5DqNT2SL._AC_UF1000,1000_QL80_.jpg",
+            "link": "https://www.youtube.com/embed/rHiHRhbTv-Q",
+            "descricao": "Este desenho animado da Disney mostra as aventuras de um leão jovem de nome Simba, o herdeiro de seu pai, Mufasa. O tio malvado de Simba, Oscar, planeja roubar o trono de Mufasa atraindo pai e filho para uma emboscada. Simba consegue escapar e somente Mufasa morre. Com a ajuda de seus amigos,Timon e Pumba, ele reaparece como adulto para recuperar sua terra, que foi roubada por seu tio Oscar."
+        },
+        {
+            "id": 6,
+            "titulo": "Os Pequenos Vestigios",
+            "capa": "https://br.web.img3.acsta.net/pictures/20/12/22/18/05/3908202.jpg",
+            "link": "https://www.youtube.com/embed/9tOME28jr2U",
+            "descricao": "O delegado adjunto do condado de Kern, Joe Deke Deacon, é enviado a Los Angeles para o que deveria ser uma rápida coleta de provas. Em vez disso, ele se envolve na busca por um assassino em série que está aterrorizando a cidade. À frente do caso, Jim Baxter, delegado do Departamento de Polícia de Los Angeles, impressionado com os instintos de Deke, designa o policial, extraoficialmente, para ajudá-lo."
+        },
+        {
+            "id": 7,
+            "titulo": "Homem Aranha 2",
+            "capa": "https://br.web.img2.acsta.net/pictures/210/544/21054460_2013103118041242.jpg",
+            "link": "https://www.youtube.com/embed/1s9Yln0YwCw",
+            "descricao": "O Dr. Otto Octavius é transformado em Doutor Octopus quando uma falha em uma experiência de fusão nuclear resulta em uma explosão que mata sua esposa. Ele culpa o Homem-Aranha pelo acidente e deseja vingança. Enquanto isso, o alter ego do herói, Peter Parker, perde seus poderes. Para complicar as coisas, o seu melhor amigo odeia o Homem-Aranha e sua amada fica noiva."
+        },
+        {
+            "id": 8,
+            "titulo": "A Fuga Das Galinhas",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/3/33/A_Fuga_das_Galinhas.jpg",
+            "link": "https://www.youtube.com/embed/Vfirqr2Gt44",
+            "descricao": "No galinheiro de uma fazenda inglesa dos anos 1950, galinhas cumprem sua função e vivem pacatamente sonhando com uma vida melhor. Uma delas, Ginger, sonha com a liberdade e planeja sair voando dali junto com suas companheiras."
+        }
+    ]
+
+}
